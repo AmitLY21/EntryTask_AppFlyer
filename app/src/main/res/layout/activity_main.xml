@@ -8,12 +8,12 @@
     tools:context=".MainActivity">
 
     <com.airbnb.lottie.LottieAnimationView
-        android:layout_above="@id/title_LBL"
-        android:layout_marginBottom="20dp"
         android:id="@+id/lottie_SPC_logo"
         android:layout_width="300dp"
         android:layout_height="300dp"
+        android:layout_above="@id/title_LBL"
         android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
         android:scaleType="fitCenter"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
@@ -39,17 +39,18 @@
         android:layout_below="@id/title_LBL"
         android:layout_centerInParent="true"
         android:layout_marginTop="15dp"
-        android:text="Please consider Hiring me"
+        android:text="I will be a Valued Team Player"
         android:textColor="@color/white"
         android:textSize="24sp" />
 
     <ImageButton
         android:id="@+id/contact_BTN"
-        android:layout_below="@id/sub_title_LBL"
-        android:layout_marginTop="40dp"
-        android:layout_centerInParent="true"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:src="@drawable/phone"/>
+        android:layout_below="@id/sub_title_LBL"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40dp"
+        android:background="@null"
+        android:src="@drawable/phone" />
 
 </RelativeLayout>
