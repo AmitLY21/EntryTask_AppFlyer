@@ -2,5 +2,5 @@
 Entry Task for AppFlyer
 ## The only page there is: 
 
-<img src="https://user-images.githubusercontent.com/62396197/160131379-49ff2c02-71da-46db-9245-5938000477bd.jpg" alt="splash" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/62396197/160233334-cbf3c65a-f2ad-4a03-bdeb-85cd41be570d.png" alt="splash" width="200" height="400"/>
 
