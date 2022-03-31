@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         btnContact = findViewById(R.id.contact_BTN);
         btnContact.setOnClickListener(view -> {
             Intent callIntent = new Intent(Intent.ACTION_DIAL);
-            callIntent.setData(Uri.parse("tel:0545455962"));
+            callIntent.setData(Uri.parse("tel:0545455692"));
             startActivity(callIntent);
         });
 
